@@ -17,13 +17,11 @@ Any end-user can confirm that their distribution or platform remains Presto conf
 * Support 
 You got covered for community support, bug fixes, integrations for the certified release of PrestoDB
 
-
-Presto Conformance Program is to ensure consistency, to avoid any confusion and provide confirmability to the end-user that their Presto distribution or platform remains Presto conformant by running the open-source Presto conformance application (TBD) that was used to certify by vendors. 
+*Presto Conformance Program is to ensure consistency, to avoid any confusion and provide confirmability to the end-user that their Presto distribution or platform remains Presto conformant by running the open-source Presto conformance application (TBD) that was used to certify by vendors.* 
 
 Note: This conformance program definition will evolve/revise over time as we find time to document, specify, and test current behavior and as the functionality of Presto itself evolves.
 
-
-Scope of the Program
+## Scope of the Program
 
 Establish the conformance definition for downstream implementations of Presto and/or other tools built to interoperate with Presto, for final approval by the TSC.
 Develop a conformance test suite to provide a "pass" or "fail" result based on the conformance definition, for final approval by the TSC.
@@ -33,15 +31,13 @@ Update and revise the conformance definition and test suite on an ongoing basis 
 
 Refer more details at [Presto Conformance Working Group Governance] (https://github.com/prestodb/tsc/blob/master/working-groups/conformance-wg.md)
 
-
-
 ## Team
+
 * Gurmeet Singh (Uber)
 * Kamil Bajda-Pawlikowski (Starburst)
 * Rohan Pednekar (Ahana)
 * Tim Meehan (Facebook)
 * Gale McCommons (Linux Foundation)
-
 
 ## Team meetings
 
